@@ -14,4 +14,9 @@ void main(){
 	int min = ((a+b) - abs(a-b))/2;
 
 	printf("\nmax : %d and min : %d",max,min);
+
+
+	
+
+	
 }
