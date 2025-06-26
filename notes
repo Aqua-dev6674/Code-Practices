@@ -11,3 +11,25 @@ Concept : Series
 
 - Generative Series -> even,odd,natural,whole
 - Geometrical Series -> combination of two series
+
+Concept : Functions
+
+- Predefined Functions ->
+	* printf()
+	* scanf()
+	* math.pow()
+	* math.sqrt()...
+
+- User Defined Functions ->
+	* No Argument Passing without Return Value
+	* Argument Passing without Return Value
+	* Argument Passing with Return Value
+	* No Argument Passing with Return Value
+
+Concept : Strings
+
+- String Functions ->
+	* strlen(str)
+	* strcpy(a,b)
+	* strcat(a,b)
+	* strcmp(a,b) - boolean output
