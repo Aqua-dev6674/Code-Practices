@@ -33,3 +33,9 @@ Concept : Strings
 	* strcpy(a,b)
 	* strcat(a,b)
 	* strcmp(a,b) - boolean output
+
+Concept : Tower of Hanoi
+
+- Formula ->
+	* no.of steps needed (2^n)-1 where n is the the no.of disks
+	* For example : if  3 disks then we need 2^3 - 1 = 8 - 1 = 7 steps
